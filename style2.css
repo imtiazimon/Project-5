@@ -1,0 +1,88 @@
+.background{
+background: #adabab54;
+padding: 30px 50px 40px;
+}
+
+.h{
+overflow: hidden;
+margin-bottom: 15px;
+}
+
+.logo{
+	background:#adababfc;
+	height: 100px;
+	width: 50%;
+	float: left;
+	font-size: 30px;
+	text-align: center;
+	line-height: 80px;	
+}
+
+
+.navi{
+		background:#adababfc;
+	height:100px ;
+     font-size: 30px;
+     text-align: center;
+     width: 50%;
+     float: right;	
+     line-height: 80px;
+    }
+.header{
+	background:#adababfc;
+	height: 170px;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 40px;
+    text-align: center;
+    line-height: 150px;
+    }
+.intro{
+	background:#adababfc;
+	height: 150px;
+	width: 100%;
+	font-size: 40px;
+	margin-bottom: 20px;
+	text-align: center;
+	line-height: 100px;
+    }
+
+
+.container{
+	overflow: hidden;
+	text-align: center;
+	font-size: 40px;
+	line-height: 350px ;
+}
+
+.b1{
+	background:#adababfc;
+	height: 450px;
+	width: 31%;
+	margin-right: 32.7px;
+	float: left;	
+}
+
+.b2{
+	background:#adababfc;
+	height: 450px;
+	float: left;
+	width: 32%;
+	margin-right: 32.7px;
+}
+
+.b3{
+	background:#adababfc;
+	height: 450px;
+	float: left;
+	width: 32%;
+}
+
+.footer{
+	background: #adababfc;
+	height: 60px;
+	width: 100%;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 20px;
+}

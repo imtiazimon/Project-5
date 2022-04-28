@@ -1,0 +1,77 @@
+.background{
+	background: #adabab54;
+	padding: 30px 40px 50px;
+
+
+}
+
+.logo{
+	background:#adababfc;
+	height: 100px;
+	width: 100%;
+	margin-top: 10px;
+	font-size: 40px;
+	
+}
+
+.navigation{
+    background:#adababfc;
+	height: 60px;
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-size: 35px;
+
+
+}
+
+.header{
+	background:#adababfc;
+	height: 120px;
+	width: 100%;
+	margin-bottom: 20px;
+	text-align: center;
+	font-size: 30px;
+	line-height: 100px;
+
+	
+
+
+
+
+}
+.container{
+	overflow: hidden;
+	text-align: center;
+	font-size: 40px;
+
+
+
+}
+.slidebar{
+    background:#adababfc;
+	height: 400px;
+	width: 20.5%;
+	float: left;
+	line-height: 350px;
+
+}
+.bodyarea{
+    background:#adababfc;
+	height: 400px;
+	width: 78%;
+	float:right;
+	text-align: center;
+	line-height: 350px;
+
+}
+.footer{
+ background:#adababfc;
+	height: 60px;
+	width: 100%;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 40px;
+	}
+
